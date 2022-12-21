@@ -1,0 +1,7 @@
+/* h2{
+    color:blue
+} */
+
+input:checked+h1{
+    color:red;
+}
